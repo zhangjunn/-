@@ -31,6 +31,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ###  在线说明文档
 ### 基于mongodb+nodejs+exrpress+element+vue.js
 ```
+myproject是后台管理系统代码。pig是webapp
+
 一 mongodb使用
 1）命令函： 
 （mongo：代表进入mongo环境）  (show dbs ：显示数据库) （db当前）
